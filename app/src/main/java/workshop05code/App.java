@@ -35,6 +35,7 @@ public class App {
      */
     public static void main(String[] args) {
         SQLiteConnectionManager wordleDatabaseConnection = new SQLiteConnectionManager("words.db");
+        String regex = "[a-z]{4}";
 
         wordleDatabaseConnection.createNewDatabase("words.db");
         if (wordleDatabaseConnection.checkIfConnectionDefined()) {
@@ -57,6 +58,10 @@ public class App {
             int i = 1;
             while ((line = br.readLine()) != null) {
                 System.out.println(line);
+                if(line.matches(regex)) {
+                    System.out.println("Input not valid: Word must be 4 letters long and must not contain uppercase letters.");
+                    continue;
+                }
                 wordleDatabaseConnection.addValidWord(i, line);
                 i++;
             }
@@ -72,6 +77,12 @@ public class App {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Enter a 4 letter word for a guess or q to quit: ");
             String guess = scanner.nextLine();
+
+            while (!guess.matches(regex)) {
+                System.out.println("Input not valid: Guess must be 4 letters long and must not contain uppercase letters.");
+                System.out.print("Enter a 4 letter word for a guess or q to quit: ");
+                guess = scanner.nextLine();
+            }
 
             while (!guess.equals("q")) {
                 System.out.println("You've guessed '" + guess+"'.");
