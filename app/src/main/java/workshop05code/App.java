@@ -56,18 +56,22 @@ public class App {
         try (BufferedReader br = new BufferedReader(new FileReader("resources/data.txt"))) {
             String line;
             int i = 1;
+
             while ((line = br.readLine()) != null) {
-                System.out.println(line);
-                if(line.matches(regex)) {
-                    System.out.println("Input not valid: Word must be 4 letters long and must not contain uppercase letters.");
-                    continue;
+
+                if(!line.matches(regex)) {
+                    br.readLine();
+                    System.out.println("Invalid Word: " + line);
+                    System.out.println("Error: Invalid db input... Skipping!");
                 }
+
+                System.out.println(line);
                 wordleDatabaseConnection.addValidWord(i, line);
                 i++;
             }
 
         } catch (IOException e) {
-            System.out.println("Not able to load . Sorry!");
+            System.out.println("Not able to load. Sorry!");
             System.out.println(e.getMessage());
             return;
         }
