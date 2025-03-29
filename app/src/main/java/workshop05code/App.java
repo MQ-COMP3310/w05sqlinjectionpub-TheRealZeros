@@ -63,6 +63,7 @@ public class App {
                     br.readLine();
                     System.out.println("Invalid Word: " + line);
                     System.out.println("Error: Invalid db input... Skipping!");
+                    continue;
                 }
 
                 System.out.println(line);
@@ -82,23 +83,25 @@ public class App {
             System.out.print("Enter a 4 letter word for a guess or q to quit: ");
             String guess = scanner.nextLine();
 
-            while (!guess.matches(regex)) {
-                System.out.println("Input not valid: Guess must be 4 letters long and must not contain uppercase letters.");
-                System.out.print("Enter a 4 letter word for a guess or q to quit: ");
-                guess = scanner.nextLine();
-            }
-
             while (!guess.equals("q")) {
-                System.out.println("You've guessed '" + guess+"'.");
+                
+                if(!guess.matches(regex)) {
+                    System.out.println("Input not valid: Guess must be 4 letters long and must not contain uppercase letters.");
+                    System.out.print("Enter a 4 letter word for a guess or q to quit: ");
+                    guess = scanner.nextLine();
+                } else {
 
-                if (wordleDatabaseConnection.isValidWord(guess)) { 
-                    System.out.println("Success! It is in the the list.\n");
-                }else{
-                    System.out.println("Sorry. This word is NOT in the the list.\n");
+                    System.out.println("You've guessed '" + guess+"'.");
+
+                    if (wordleDatabaseConnection.isValidWord(guess)) { 
+                        System.out.println("Success! It is in the the list.\n");
+                    } else {
+                        System.out.println("Sorry. This word is NOT in the the list.\n");
+                    }
+                
+                    System.out.print("Enter a 4 letter word for a guess or q to quit: " );
+                    guess = scanner.nextLine();
                 }
-
-                System.out.print("Enter a 4 letter word for a guess or q to quit: " );
-                guess = scanner.nextLine();
             }
         } catch (NoSuchElementException | IllegalStateException e) {
             e.printStackTrace();
