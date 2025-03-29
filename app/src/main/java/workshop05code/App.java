@@ -92,7 +92,7 @@ public class App {
 
             while (!guess.equals("q")) {
                 
-                if(!guess.matches(regex)) {
+                if(!guess.matches(regex) || "null".equals(guess)) {
                     /* Log required (info) */
                     logger.log(Level.INFO, "Input not valid: " + guess);
                     
@@ -103,7 +103,7 @@ public class App {
                 } else {
 
                      /* Game Related sysout */
-                    System.out.println("You've guessed '" + guess+"'.");
+                    System.out.println("You've guessed '" + guess +"'.");
 
                     if (wordleDatabaseConnection.isValidWord(guess)) { 
                          /* Game Related sysout */

@@ -2014,3 +2014,5053 @@ Mar 29, 2025 9:23:32 PM workshop05code.App main
 INFO: Added word: zero
 Mar 29, 2025 9:23:32 PM workshop05code.App main
 INFO: Added word: zone
+Mar 29, 2025 9:25:58 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: The driver name is SQLite JDBC
+Mar 29, 2025 9:25:58 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: A new database has been created.
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+CONFIG: Wordle created & Connected.
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+CONFIG: Wordle structures in place.
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: able
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: acid
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: aged
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: also
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: area
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: army
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: away
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: baby
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: back
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: ball
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: band
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bank
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: base
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bath
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bear
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: beat
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: been
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: beer
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bell
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: belt
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: best
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bill
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bird
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: blow
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: blue
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: boat
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: body
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bomb
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bond
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bone
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: book
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: boom
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: born
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: boss
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: both
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bowl
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bulk
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: burn
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: bush
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: busy
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: call
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: calm
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: came
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: camp
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: card
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: care
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: case
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: cash
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: cast
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: cell
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: chat
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: chip
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: city
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: club
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: coal
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: coat
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: code
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: cold
+Mar 29, 2025 9:25:58 PM workshop05code.App main
+INFO: Added word: come
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: cook
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: cool
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: cope
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: copy
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+SEVERE: Invalid db input: CORE
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: crew
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: crop
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dark
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: data
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: date
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dawn
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: days
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dead
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: deal
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dean
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dear
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: debt
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: deep
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: deny
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: desk
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dial
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dick
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: diet
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: disc
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: disk
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: does
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: done
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: door
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dose
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: down
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: draw
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: drew
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: drop
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: drug
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dual
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: duke
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: dust
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: duty
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: each
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: earn
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: ease
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: east
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: easy
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: edge
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: else
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: even
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: ever
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: evil
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: exit
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: face
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fact
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fail
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fair
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fall
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: farm
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fast
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fate
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fear
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: feed
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: feel
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: feet
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fell
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: felt
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: file
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fill
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: film
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: find
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fine
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fire
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: firm
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fish
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: five
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: flat
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: flow
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: food
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: foot
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: ford
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: form
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fort
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: four
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: free
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: from
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fuel
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: full
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: fund
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gain
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: game
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gate
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gave
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gear
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gene
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gift
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: girl
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: give
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: glad
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: goal
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: goes
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gold
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+SEVERE: Invalid db input: Golf
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: good
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gray
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: grew
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: grey
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: grow
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: gulf
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: hair
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: half
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: hall
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: hand
+Mar 29, 2025 9:25:59 PM workshop05code.App main
+INFO: Added word: hang
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hard
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: harm
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hate
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: have
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: head
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hear
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: heat
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: held
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hell
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: help
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: here
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hero
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: high
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hill
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hire
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hold
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hole
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: holy
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: home
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hope
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: host
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hour
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: huge
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hung
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hunt
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: hurt
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: idea
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: inch
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: into
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: iron
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: item
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: jack
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: jane
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: jean
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: john
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: join
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: jump
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: jury
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: just
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: keen
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: keep
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: kent
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: kept
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: kick
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: kill
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: kind
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: king
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: knee
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: knew
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: know
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lack
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lady
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: laid
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lake
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: land
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lane
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: last
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: late
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lead
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: left
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: less
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: life
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lift
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: like
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: line
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: link
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: list
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: live
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: load
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: loan
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lock
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: logo
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: long
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: look
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lord
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lose
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: loss
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: lost
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: love
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: luck
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: made
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mail
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: main
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: make
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: male
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: many
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+SEVERE: Invalid db input: Mark
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: matt
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: meal
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mean
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: meat
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: meet
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: menu
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mere
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mike
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mile
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: milk
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mill
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mind
+Mar 29, 2025 9:26:00 PM workshop05code.App main
+INFO: Added word: mine
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: miss
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: mode
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: mood
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: moon
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: more
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: most
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: move
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: much
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: must
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: name
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: navy
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: near
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: neck
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: need
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: news
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: next
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: nice
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: nick
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: nine
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: none
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: nose
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: note
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: okay
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: once
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: only
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: onto
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: open
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: oral
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: over
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pace
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pack
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: page
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: paid
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pain
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pair
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: palm
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: park
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: part
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pass
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: past
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: path
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: peak
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pick
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pink
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pipe
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: plan
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: play
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: plot
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: plug
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: plus
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: poll
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pool
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: poor
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: port
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: post
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pull
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: pure
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: push
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: race
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rail
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rain
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rank
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rare
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rate
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: read
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: real
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rear
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rely
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rent
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rest
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rice
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rich
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: ride
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: ring
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rise
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: risk
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: road
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rock
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: role
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: roll
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: roof
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: room
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: root
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rose
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rule
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: rush
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: ruth
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: safe
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: said
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: sake
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: sale
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: salt
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: same
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: sand
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: save
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: seat
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: seed
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: seek
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: seem
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: seen
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: self
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: sell
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: send
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: sent
+Mar 29, 2025 9:26:01 PM workshop05code.App main
+INFO: Added word: sept
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: ship
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: shop
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: shot
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: show
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: shut
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: sick
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: side
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: sign
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: site
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: size
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: skin
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: slip
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: slow
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: snow
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: soft
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: soil
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: sold
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: sole
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: some
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: song
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: soon
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: sort
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: soul
+Mar 29, 2025 9:26:02 PM workshop05code.App main
+INFO: Added word: spot
+Mar 29, 2025 9:26:03 PM workshop05code.App main
+INFO: Added word: star
+Mar 29, 2025 9:26:03 PM workshop05code.App main
+INFO: Added word: stay
+Mar 29, 2025 9:26:03 PM workshop05code.App main
+INFO: Added word: step
+Mar 29, 2025 9:26:03 PM workshop05code.App main
+INFO: Added word: stop
+Mar 29, 2025 9:26:03 PM workshop05code.App main
+INFO: Added word: such
+Mar 29, 2025 9:26:03 PM workshop05code.App main
+INFO: Added word: suit
+Mar 29, 2025 9:26:04 PM workshop05code.App main
+INFO: Added word: sure
+Mar 29, 2025 9:26:04 PM workshop05code.App main
+INFO: Added word: take
+Mar 29, 2025 9:26:04 PM workshop05code.App main
+INFO: Added word: tale
+Mar 29, 2025 9:26:04 PM workshop05code.App main
+INFO: Added word: talk
+Mar 29, 2025 9:26:04 PM workshop05code.App main
+INFO: Added word: tall
+Mar 29, 2025 9:26:05 PM workshop05code.App main
+INFO: Added word: tank
+Mar 29, 2025 9:26:05 PM workshop05code.App main
+INFO: Added word: tape
+Mar 29, 2025 9:26:05 PM workshop05code.App main
+INFO: Added word: task
+Mar 29, 2025 9:26:05 PM workshop05code.App main
+INFO: Added word: team
+Mar 29, 2025 9:26:05 PM workshop05code.App main
+INFO: Added word: tech
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tell
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tend
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: term
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: test
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: text
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: than
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: that
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: them
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: then
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: they
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: thin
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: this
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: thus
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: till
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: time
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tiny
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: told
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: toll
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tone
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tony
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: took
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tool
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tour
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: town
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: tree
+Mar 29, 2025 9:26:06 PM workshop05code.App main
+INFO: Added word: trip
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: true
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: tune
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: turn
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: twin
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: type
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: unit
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: upon
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: used
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: user
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: vary
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: vast
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: very
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: vice
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: view
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: vote
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wage
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wait
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wake
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: walk
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wall
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: want
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: ward
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: warm
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wash
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wave
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: ways
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: weak
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wear
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: week
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: well
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: went
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: were
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: west
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: what
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: when
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: whom
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wide
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wife
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wild
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: will
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wind
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wine
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wing
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wire
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wise
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wish
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: with
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wood
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: word
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: wore
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: work
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: yard
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: yeah
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: year
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: your
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: zero
+Mar 29, 2025 9:26:07 PM workshop05code.App main
+INFO: Added word: zone
+Mar 29, 2025 9:26:12 PM workshop05code.App main
+INFO: Input not valid: OPOP
+Mar 29, 2025 9:26:14 PM workshop05code.App main
+INFO: Input not valid: pop
+Mar 29, 2025 9:26:16 PM workshop05code.App main
+INFO: Input not valid: a
+Mar 29, 2025 9:26:18 PM workshop05code.App main
+INFO: Input not valid: NULL
+Mar 29, 2025 9:27:03 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: The driver name is SQLite JDBC
+Mar 29, 2025 9:27:03 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: A new database has been created.
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+CONFIG: Wordle created & Connected.
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+CONFIG: Wordle structures in place.
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: able
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: acid
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: aged
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: also
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: area
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: army
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: away
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: baby
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: back
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: ball
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: band
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bank
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: base
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bath
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bear
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: beat
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: been
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: beer
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bell
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: belt
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: best
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bill
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bird
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: blow
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: blue
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: boat
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: body
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bomb
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bond
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bone
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: book
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: boom
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: born
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: boss
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: both
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bowl
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bulk
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: burn
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: bush
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: busy
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: call
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: calm
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: came
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: camp
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: card
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: care
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: case
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: cash
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: cast
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: cell
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: chat
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: chip
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: city
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: club
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: coal
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: coat
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: code
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: cold
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: come
+Mar 29, 2025 9:27:03 PM workshop05code.App main
+INFO: Added word: cook
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: cool
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: cope
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: copy
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+SEVERE: Invalid db input: CORE
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: crew
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: crop
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dark
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: data
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: date
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dawn
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: days
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dead
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: deal
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dean
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dear
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: debt
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: deep
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: deny
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: desk
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dial
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dick
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: diet
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: disc
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: disk
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: does
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: done
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: door
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dose
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: down
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: draw
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: drew
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: drop
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: drug
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dual
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: duke
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: dust
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: duty
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: each
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: earn
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: ease
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: east
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: easy
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: edge
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: else
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: even
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: ever
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: evil
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: exit
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: face
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fact
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fail
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fair
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fall
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: farm
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fast
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fate
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fear
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: feed
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: feel
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: feet
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fell
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: felt
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: file
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fill
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: film
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: find
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fine
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fire
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: firm
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fish
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: five
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: flat
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: flow
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: food
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: foot
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: ford
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: form
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fort
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: four
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: free
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: from
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fuel
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: full
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: fund
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gain
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: game
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gate
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gave
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gear
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gene
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gift
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: girl
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: give
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: glad
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: goal
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: goes
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: gold
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+SEVERE: Invalid db input: Golf
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:27:04 PM workshop05code.App main
+INFO: Added word: good
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: gray
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: grew
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: grey
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: grow
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: gulf
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hair
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: half
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hall
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hand
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hang
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hard
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: harm
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hate
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: have
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: head
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hear
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: heat
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: held
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hell
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: help
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: here
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hero
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: high
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hill
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hire
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hold
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hole
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: holy
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: home
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hope
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: host
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hour
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: huge
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hung
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hunt
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: hurt
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: idea
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: inch
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: into
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: iron
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: item
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: jack
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: jane
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: jean
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: john
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: join
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: jump
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: jury
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: just
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: keen
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: keep
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: kent
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: kept
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: kick
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: kill
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: kind
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: king
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: knee
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: knew
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: know
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lack
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lady
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: laid
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lake
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: land
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lane
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: last
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: late
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lead
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: left
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: less
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: life
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lift
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: like
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: line
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: link
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: list
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: live
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: load
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: loan
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lock
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: logo
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: long
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: look
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lord
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lose
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: loss
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: lost
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: love
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: luck
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: made
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: mail
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: main
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: make
+Mar 29, 2025 9:27:05 PM workshop05code.App main
+INFO: Added word: male
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: many
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+SEVERE: Invalid db input: Mark
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: matt
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: meal
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mean
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: meat
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: meet
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: menu
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mere
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mike
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mile
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: milk
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mill
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mind
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mine
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: miss
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mode
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: mood
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: moon
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: more
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: most
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: move
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: much
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: must
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: name
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: navy
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: near
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: neck
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: need
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: news
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: next
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: nice
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: nick
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: nine
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: none
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: nose
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: note
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: okay
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: once
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: only
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: onto
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: open
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: oral
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: over
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pace
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pack
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: page
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: paid
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pain
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pair
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: palm
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: park
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: part
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pass
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: past
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: path
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: peak
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pick
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pink
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pipe
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: plan
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: play
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: plot
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: plug
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: plus
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: poll
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pool
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: poor
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: port
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: post
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pull
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: pure
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: push
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: race
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rail
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rain
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rank
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rare
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rate
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: read
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: real
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rear
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rely
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rent
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rest
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rice
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rich
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: ride
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: ring
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rise
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: risk
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: road
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rock
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: role
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: roll
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: roof
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: room
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: root
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rose
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rule
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: rush
+Mar 29, 2025 9:27:06 PM workshop05code.App main
+INFO: Added word: ruth
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: safe
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: said
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sake
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sale
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: salt
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: same
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sand
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: save
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: seat
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: seed
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: seek
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: seem
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: seen
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: self
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sell
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: send
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sent
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sept
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: ship
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: shop
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: shot
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: show
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: shut
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sick
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: side
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sign
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: site
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: size
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: skin
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: slip
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: slow
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: snow
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: soft
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: soil
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sold
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sole
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: some
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: song
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: soon
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sort
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: soul
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: spot
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: star
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: stay
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: step
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: stop
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: such
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: suit
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: sure
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: take
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tale
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: talk
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tall
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tank
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tape
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: task
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: team
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tech
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tell
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tend
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: term
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: test
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: text
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: than
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: that
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: them
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: then
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: they
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: thin
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: this
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: thus
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: till
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: time
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tiny
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: told
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: toll
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tone
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tony
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: took
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tool
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tour
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: town
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tree
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: trip
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: true
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: tune
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: turn
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: twin
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: type
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: unit
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: upon
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: used
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: user
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: vary
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: vast
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: very
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: vice
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: view
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: vote
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: wage
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: wait
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: wake
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: walk
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: wall
+Mar 29, 2025 9:27:07 PM workshop05code.App main
+INFO: Added word: want
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: ward
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: warm
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wash
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wave
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: ways
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: weak
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wear
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: week
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: well
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: went
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: were
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: west
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: what
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: when
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: whom
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wide
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wife
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wild
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: will
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wind
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wine
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wing
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wire
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wise
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wish
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: with
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wood
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: word
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: wore
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: work
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: yard
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: yeah
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: year
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: your
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: zero
+Mar 29, 2025 9:27:08 PM workshop05code.App main
+INFO: Added word: zone
+Mar 29, 2025 9:27:42 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: The driver name is SQLite JDBC
+Mar 29, 2025 9:27:42 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: A new database has been created.
+Mar 29, 2025 9:27:42 PM workshop05code.App main
+CONFIG: Wordle created & Connected.
+Mar 29, 2025 9:27:42 PM workshop05code.App main
+CONFIG: Wordle structures in place.
+Mar 29, 2025 9:27:42 PM workshop05code.App main
+INFO: Added word: able
+Mar 29, 2025 9:27:42 PM workshop05code.App main
+INFO: Added word: acid
+Mar 29, 2025 9:27:42 PM workshop05code.App main
+INFO: Added word: aged
+Mar 29, 2025 9:27:42 PM workshop05code.App main
+INFO: Added word: also
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: area
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: army
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: away
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: baby
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: back
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: ball
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: band
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bank
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: base
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bath
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bear
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: beat
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: been
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: beer
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bell
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: belt
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: best
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bill
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bird
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: blow
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: blue
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: boat
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: body
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bomb
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bond
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bone
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: book
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: boom
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: born
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: boss
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: both
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bowl
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bulk
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: burn
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: bush
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: busy
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: call
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: calm
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: came
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: camp
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: card
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: care
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: case
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cash
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cast
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cell
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: chat
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: chip
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: city
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: club
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: coal
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: coat
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: code
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cold
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: come
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cook
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cool
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: cope
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: copy
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+SEVERE: Invalid db input: CORE
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: crew
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: crop
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dark
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: data
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: date
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dawn
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: days
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dead
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: deal
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dean
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dear
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: debt
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: deep
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: deny
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: desk
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dial
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dick
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: diet
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: disc
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: disk
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: does
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: done
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: door
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dose
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: down
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: draw
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: drew
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: drop
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: drug
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dual
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: duke
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: dust
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: duty
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: each
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: earn
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: ease
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: east
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: easy
+Mar 29, 2025 9:27:43 PM workshop05code.App main
+INFO: Added word: edge
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: else
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: even
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: ever
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: evil
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: exit
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: face
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fact
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fail
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fair
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fall
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: farm
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fast
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fate
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fear
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: feed
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: feel
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: feet
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fell
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: felt
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: file
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fill
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: film
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: find
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fine
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fire
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: firm
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fish
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: five
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: flat
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: flow
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: food
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: foot
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: ford
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: form
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fort
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: four
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: free
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: from
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fuel
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: full
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: fund
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gain
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: game
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gate
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gave
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gear
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gene
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gift
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: girl
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: give
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: glad
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: goal
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: goes
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gold
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+SEVERE: Invalid db input: Golf
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: good
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gray
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: grew
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: grey
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: grow
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: gulf
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hair
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: half
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hall
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hand
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hang
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hard
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: harm
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hate
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: have
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: head
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hear
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: heat
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: held
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hell
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: help
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: here
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hero
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: high
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hill
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hire
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hold
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hole
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: holy
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: home
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hope
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: host
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hour
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: huge
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hung
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hunt
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: hurt
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: idea
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: inch
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: into
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: iron
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: item
+Mar 29, 2025 9:27:44 PM workshop05code.App main
+INFO: Added word: jack
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: jane
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: jean
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: john
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: join
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: jump
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: jury
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: just
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: keen
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: keep
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: kent
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: kept
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: kick
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: kill
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: kind
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: king
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: knee
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: knew
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: know
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lack
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lady
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: laid
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lake
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: land
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lane
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: last
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: late
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lead
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: left
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: less
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: life
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lift
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: like
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: line
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: link
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: list
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: live
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: load
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: loan
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lock
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: logo
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: long
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: look
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lord
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lose
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: loss
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: lost
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: love
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: luck
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: made
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mail
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: main
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: make
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: male
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: many
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+SEVERE: Invalid db input: Mark
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: matt
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: meal
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mean
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: meat
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: meet
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: menu
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mere
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mike
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mile
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: milk
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mill
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mind
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mine
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: miss
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mode
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: mood
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: moon
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: more
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: most
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: move
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: much
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: must
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: name
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: navy
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: near
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: neck
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: need
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: news
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: next
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: nice
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: nick
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: nine
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: none
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: nose
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: note
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: okay
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: once
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: only
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: onto
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: open
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: oral
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: over
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: pace
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: pack
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: page
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: paid
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: pain
+Mar 29, 2025 9:27:45 PM workshop05code.App main
+INFO: Added word: pair
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: palm
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: park
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: part
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pass
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: past
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: path
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: peak
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pick
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pink
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pipe
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: plan
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: play
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: plot
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: plug
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: plus
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: poll
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pool
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: poor
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: port
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: post
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pull
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: pure
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: push
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: race
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rail
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rain
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rank
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rare
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rate
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: read
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: real
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rear
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rely
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rent
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rest
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rice
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rich
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: ride
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: ring
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rise
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: risk
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: road
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rock
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: role
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: roll
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: roof
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: room
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: root
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rose
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rule
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: rush
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: ruth
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: safe
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: said
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sake
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sale
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: salt
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: same
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sand
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: save
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: seat
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: seed
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: seek
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: seem
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: seen
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: self
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sell
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: send
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sent
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sept
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: ship
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: shop
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: shot
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: show
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: shut
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sick
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: side
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sign
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: site
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: size
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: skin
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: slip
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: slow
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: snow
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: soft
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: soil
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sold
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sole
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: some
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: song
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: soon
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sort
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: soul
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: spot
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: star
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: stay
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: step
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: stop
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: such
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: suit
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: sure
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: take
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: tale
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: talk
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: tall
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: tank
+Mar 29, 2025 9:27:46 PM workshop05code.App main
+INFO: Added word: tape
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: task
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: team
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tech
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tell
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tend
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: term
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: test
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: text
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: than
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: that
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: them
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: then
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: they
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: thin
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: this
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: thus
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: till
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: time
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tiny
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: told
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: toll
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tone
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tony
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: took
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tool
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tour
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: town
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tree
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: trip
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: true
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: tune
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: turn
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: twin
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: type
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: unit
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: upon
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: used
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: user
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: vary
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: vast
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: very
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: vice
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: view
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: vote
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wage
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wait
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wake
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: walk
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wall
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: want
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: ward
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: warm
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wash
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wave
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: ways
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: weak
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wear
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: week
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: well
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: went
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: were
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: west
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: what
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: when
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: whom
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wide
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wife
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wild
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: will
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wind
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wine
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wing
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wire
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wise
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wish
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: with
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wood
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: word
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: wore
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: work
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: yard
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: yeah
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: year
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: your
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: zero
+Mar 29, 2025 9:27:47 PM workshop05code.App main
+INFO: Added word: zone
+Mar 29, 2025 9:28:07 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: The driver name is SQLite JDBC
+Mar 29, 2025 9:28:07 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: A new database has been created.
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+CONFIG: Wordle created & Connected.
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+CONFIG: Wordle structures in place.
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: able
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: acid
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: aged
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: also
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: area
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: army
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: away
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: baby
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: back
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: ball
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: band
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bank
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: base
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bath
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bear
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: beat
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: been
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: beer
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bell
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: belt
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: best
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bill
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bird
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: blow
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: blue
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: boat
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: body
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bomb
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bond
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bone
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: book
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: boom
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: born
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: boss
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: both
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bowl
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bulk
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: burn
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: bush
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: busy
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: call
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: calm
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: came
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: camp
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: card
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: care
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: case
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: cash
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: cast
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: cell
+Mar 29, 2025 9:28:07 PM workshop05code.App main
+INFO: Added word: chat
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: chip
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: city
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: club
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: coal
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: coat
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: code
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: cold
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: come
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: cook
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: cool
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: cope
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: copy
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+SEVERE: Invalid db input: CORE
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: crew
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: crop
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dark
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: data
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: date
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dawn
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: days
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dead
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: deal
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dean
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dear
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: debt
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: deep
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: deny
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: desk
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dial
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dick
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: diet
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: disc
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: disk
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: does
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: done
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: door
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dose
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: down
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: draw
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: drew
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: drop
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: drug
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dual
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: duke
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: dust
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: duty
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: each
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: earn
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: ease
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: east
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: easy
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: edge
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: else
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: even
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: ever
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: evil
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: exit
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: face
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fact
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fail
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fair
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fall
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: farm
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fast
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fate
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fear
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: feed
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: feel
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: feet
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fell
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: felt
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: file
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fill
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: film
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: find
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fine
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fire
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: firm
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fish
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: five
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: flat
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: flow
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: food
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: foot
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: ford
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: form
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fort
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: four
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: free
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: from
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fuel
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: full
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: fund
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: gain
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: game
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: gate
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: gave
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: gear
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: gene
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: gift
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: girl
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: give
+Mar 29, 2025 9:28:08 PM workshop05code.App main
+INFO: Added word: glad
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: goal
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: goes
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: gold
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+SEVERE: Invalid db input: Golf
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: good
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: gray
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: grew
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: grey
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: grow
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: gulf
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hair
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: half
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hall
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hand
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hang
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hard
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: harm
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hate
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: have
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: head
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hear
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: heat
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: held
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hell
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: help
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: here
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hero
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: high
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hill
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hire
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hold
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hole
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: holy
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: home
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hope
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: host
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hour
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: huge
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hung
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hunt
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: hurt
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: idea
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: inch
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: into
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: iron
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: item
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: jack
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: jane
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: jean
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: john
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: join
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: jump
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: jury
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: just
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: keen
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: keep
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: kent
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: kept
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: kick
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: kill
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: kind
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: king
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: knee
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: knew
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: know
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lack
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lady
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: laid
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lake
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: land
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lane
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: last
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: late
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lead
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: left
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: less
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: life
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lift
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: like
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: line
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: link
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: list
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: live
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: load
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: loan
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lock
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: logo
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: long
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: look
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lord
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lose
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: loss
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: lost
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: love
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: luck
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: made
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: mail
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: main
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: make
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: male
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: many
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+SEVERE: Invalid db input: Mark
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: matt
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: meal
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: mean
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: meat
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: meet
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: menu
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: mere
+Mar 29, 2025 9:28:09 PM workshop05code.App main
+INFO: Added word: mike
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: mile
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: milk
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: mill
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: mind
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: mine
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: miss
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: mode
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: mood
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: moon
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: more
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: most
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: move
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: much
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: must
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: name
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: navy
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: near
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: neck
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: need
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: news
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: next
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: nice
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: nick
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: nine
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: none
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: nose
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: note
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: okay
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: once
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: only
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: onto
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: open
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: oral
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: over
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pace
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pack
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: page
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: paid
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pain
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pair
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: palm
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: park
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: part
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pass
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: past
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: path
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: peak
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pick
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pink
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pipe
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: plan
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: play
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: plot
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: plug
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: plus
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: poll
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pool
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: poor
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: port
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: post
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pull
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: pure
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: push
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: race
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rail
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rain
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rank
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rare
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rate
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: read
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: real
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rear
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rely
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rent
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rest
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rice
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rich
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: ride
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: ring
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rise
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: risk
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: road
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rock
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: role
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: roll
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: roof
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: room
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: root
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rose
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rule
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: rush
+Mar 29, 2025 9:28:10 PM workshop05code.App main
+INFO: Added word: ruth
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: safe
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: said
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sake
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sale
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: salt
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: same
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sand
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: save
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: seat
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: seed
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: seek
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: seem
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: seen
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: self
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sell
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: send
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sent
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sept
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: ship
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: shop
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: shot
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: show
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: shut
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sick
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: side
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sign
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: site
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: size
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: skin
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: slip
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: slow
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: snow
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: soft
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: soil
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sold
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sole
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: some
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: song
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: soon
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sort
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: soul
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: spot
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: star
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: stay
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: step
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: stop
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: such
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: suit
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: sure
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: take
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tale
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: talk
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tall
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tank
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tape
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: task
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: team
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tech
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tell
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tend
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: term
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: test
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: text
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: than
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: that
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: them
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: then
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: they
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: thin
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: this
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: thus
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: till
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: time
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tiny
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: told
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: toll
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tone
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tony
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: took
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tool
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tour
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: town
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tree
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: trip
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: true
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: tune
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: turn
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: twin
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: type
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: unit
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: upon
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: used
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: user
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: vary
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: vast
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: very
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: vice
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: view
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: vote
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wage
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wait
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wake
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: walk
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wall
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: want
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: ward
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: warm
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wash
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wave
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: ways
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: weak
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: wear
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: week
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: well
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: went
+Mar 29, 2025 9:28:11 PM workshop05code.App main
+INFO: Added word: were
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: west
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: what
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: when
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: whom
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wide
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wife
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wild
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: will
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wind
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wine
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wing
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wire
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wise
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wish
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: with
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wood
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: word
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: wore
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: work
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: yard
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: yeah
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: year
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: your
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: zero
+Mar 29, 2025 9:28:12 PM workshop05code.App main
+INFO: Added word: zone
+Mar 29, 2025 9:29:20 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: The driver name is SQLite JDBC
+Mar 29, 2025 9:29:20 PM workshop05code.SQLiteConnectionManager createNewDatabase
+CONFIG: A new database has been created.
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+CONFIG: Wordle created & Connected.
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+CONFIG: Wordle structures in place.
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: able
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: acid
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: aged
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: also
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: area
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: army
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: away
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: baby
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: back
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: ball
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: band
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: bank
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: base
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: bath
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: bear
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: beat
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: been
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: beer
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: bell
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: belt
+Mar 29, 2025 9:29:20 PM workshop05code.App main
+INFO: Added word: best
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bill
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bird
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: blow
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: blue
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: boat
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: body
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bomb
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bond
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bone
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: book
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: boom
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: born
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: boss
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: both
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bowl
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bulk
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: burn
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: bush
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: busy
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: call
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: calm
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: came
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: camp
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: card
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: care
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: case
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cash
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cast
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cell
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: chat
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: chip
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: city
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: club
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: coal
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: coat
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: code
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cold
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: come
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cook
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cool
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: cope
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: copy
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+SEVERE: Invalid db input: CORE
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: crew
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: crop
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dark
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: data
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: date
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dawn
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: days
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dead
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: deal
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dean
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dear
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: debt
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: deep
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: deny
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: desk
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dial
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dick
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: diet
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: disc
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: disk
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: does
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: done
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: door
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dose
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: down
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: draw
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: drew
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: drop
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: drug
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dual
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: duke
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: dust
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: duty
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: each
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: earn
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: ease
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: east
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: easy
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: edge
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: else
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: even
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: ever
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: evil
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: exit
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: face
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fact
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fail
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fair
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fall
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: farm
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fast
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fate
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fear
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: feed
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: feel
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: feet
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: fell
+Mar 29, 2025 9:29:21 PM workshop05code.App main
+INFO: Added word: felt
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: file
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fill
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: film
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: find
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fine
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fire
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: firm
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fish
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: five
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: flat
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: flow
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: food
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: foot
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: ford
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: form
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fort
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: four
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: free
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: from
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fuel
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: full
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: fund
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gain
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: game
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gate
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gave
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gear
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gene
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gift
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: girl
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: give
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: glad
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: goal
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: goes
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gold
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+SEVERE: Invalid db input: Golf
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: good
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gray
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: grew
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: grey
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: grow
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: gulf
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hair
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: half
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hall
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hand
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hang
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hard
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: harm
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hate
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: have
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: head
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hear
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: heat
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: held
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hell
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: help
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: here
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hero
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: high
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hill
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hire
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hold
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hole
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: holy
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: home
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hope
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: host
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hour
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: huge
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hung
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hunt
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: hurt
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: idea
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: inch
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: into
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: iron
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: item
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: jack
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: jane
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: jean
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: john
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: join
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: jump
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: jury
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: just
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: keen
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: keep
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: kent
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: kept
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: kick
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: kill
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: kind
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: king
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: knee
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: knew
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: know
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: lack
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: lady
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: laid
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: lake
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: land
+Mar 29, 2025 9:29:22 PM workshop05code.App main
+INFO: Added word: lane
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: last
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: late
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: lead
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: left
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: less
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: life
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: lift
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: like
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: line
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: link
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: list
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: live
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: load
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: loan
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: lock
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: logo
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: long
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: look
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: lord
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: lose
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: loss
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: lost
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: love
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: luck
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: made
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mail
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: main
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: make
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: male
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: many
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+SEVERE: Invalid db input: Mark
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+WARNING: Skipping input!
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: matt
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: meal
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mean
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: meat
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: meet
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: menu
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mere
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mike
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mile
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: milk
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mill
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mind
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mine
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: miss
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mode
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: mood
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: moon
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: more
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: most
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: move
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: much
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: must
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: name
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: navy
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: near
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: neck
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: need
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: news
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: next
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: nice
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: nick
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: nine
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: none
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: nose
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: note
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: okay
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: once
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: only
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: onto
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: open
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: oral
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: over
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pace
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pack
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: page
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: paid
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pain
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pair
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: palm
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: park
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: part
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pass
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: past
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: path
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: peak
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pick
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pink
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pipe
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: plan
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: play
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: plot
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: plug
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: plus
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: poll
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pool
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: poor
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: port
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: post
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pull
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: pure
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: push
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: race
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: rail
+Mar 29, 2025 9:29:23 PM workshop05code.App main
+INFO: Added word: rain
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rank
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rare
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rate
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: read
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: real
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rear
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rely
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rent
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rest
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rice
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rich
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: ride
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: ring
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rise
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: risk
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: road
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rock
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: role
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: roll
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: roof
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: room
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: root
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rose
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rule
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: rush
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: ruth
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: safe
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: said
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sake
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sale
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: salt
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: same
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sand
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: save
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: seat
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: seed
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: seek
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: seem
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: seen
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: self
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sell
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: send
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sent
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sept
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: ship
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: shop
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: shot
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: show
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: shut
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sick
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: side
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sign
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: site
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: size
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: skin
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: slip
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: slow
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: snow
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: soft
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: soil
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sold
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sole
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: some
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: song
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: soon
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sort
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: soul
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: spot
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: star
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: stay
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: step
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: stop
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: such
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: suit
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: sure
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: take
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tale
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: talk
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tall
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tank
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tape
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: task
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: team
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tech
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tell
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tend
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: term
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: test
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: text
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: than
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: that
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: them
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: then
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: they
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: thin
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: this
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: thus
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: till
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: time
+Mar 29, 2025 9:29:24 PM workshop05code.App main
+INFO: Added word: tiny
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: told
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: toll
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: tone
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: tony
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: took
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: tool
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: tour
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: town
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: tree
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: trip
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: true
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: tune
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: turn
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: twin
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: type
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: unit
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: upon
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: used
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: user
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: vary
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: vast
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: very
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: vice
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: view
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: vote
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wage
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wait
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wake
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: walk
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wall
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: want
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: ward
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: warm
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wash
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wave
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: ways
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: weak
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wear
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: week
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: well
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: went
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: were
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: west
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: what
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: when
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: whom
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wide
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wife
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wild
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: will
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wind
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wine
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wing
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wire
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wise
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wish
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: with
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wood
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: word
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: wore
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: work
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: yard
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: yeah
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: year
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: your
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: zero
+Mar 29, 2025 9:29:25 PM workshop05code.App main
+INFO: Added word: zone
+Mar 29, 2025 9:29:38 PM workshop05code.App main
+INFO: Input not valid: null
