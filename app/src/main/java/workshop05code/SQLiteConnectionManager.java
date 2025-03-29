@@ -64,12 +64,13 @@ public class SQLiteConnectionManager {
         try (Connection conn = DriverManager.getConnection(databaseURL)) {
             if (conn != null) {
                 DatabaseMetaData meta = conn.getMetaData();
-                System.out.println("The driver name is " + meta.getDriverName());
-                System.out.println("A new database has been created.");
-
+                /* Log required (Config) */
+                logger.log(Level.CONFIG, "The driver name is " + meta.getDriverName());
+                /* Log required (Config) */
+                logger.log(Level.CONFIG, "A new database has been created.");
             }
         } catch (SQLException e) {
-            System.out.println(e.getMessage());
+            logger.log(Level.SEVERE, "Cannot create new database", e);
         }
     }
 
@@ -88,7 +89,7 @@ public class SQLiteConnectionManager {
                     return true;
                 }
             } catch (SQLException e) {
-                System.out.println(e.getMessage());
+                logger.log(Level.SEVERE, "database connection not defined", e);
                 return false;
             }
         }
@@ -113,7 +114,7 @@ public class SQLiteConnectionManager {
                 return true;
 
             } catch (SQLException e) {
-                System.out.println(e.getMessage());
+                logger.log(Level.SEVERE, "Cannot create wordle table", e);
                 return false;
             }
         }
@@ -136,7 +137,7 @@ public class SQLiteConnectionManager {
 
             pstmt.executeUpdate();
         } catch (SQLException e) {
-            System.out.println(e.getMessage());
+            logger.log(Level.WARNING, "Cannot insert word into database", e);
         }
 
     }
@@ -164,7 +165,7 @@ public class SQLiteConnectionManager {
             return false;
 
         } catch (SQLException e) {
-            System.out.println(e.getMessage());
+            logger.log(Level.WARNING, "Cannot check validity of word", e);
             return false;
         }
     }
